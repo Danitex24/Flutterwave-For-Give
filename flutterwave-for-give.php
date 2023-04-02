@@ -47,3 +47,5 @@ require_once(plugin_dir_path(__FILE__).'/includes/flutterwave-give-activator.php
 require_once(plugin_dir_path(__FILE__).'/includes/flutterwave-give-gateway-settings.php');
 require_once(plugin_dir_path(__FILE__).'/includes/flutterwave-give-gateway-fields.php');
 require_once(plugin_dir_path(__FILE__).'/includes/flutterwave-give-submit-donation.php');
+require_once(plugin_dir_path(__FILE__).'/includes/flutterwave-give-add-currency.php');
+require_once(plugin_dir_path(__FILE__).'/includes/flutterwave-give-auth.php');
