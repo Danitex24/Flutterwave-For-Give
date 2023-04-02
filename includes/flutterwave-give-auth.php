@@ -1,0 +1,4 @@
+<?php
+/**
+ * Set Flutterwave authentications
+ */
